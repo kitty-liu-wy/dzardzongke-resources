@@ -11,3 +11,5 @@ This lexical model only takes orthography into account, and not the frequencies 
 **Information**
 
 Our orthography for Dzardzongke was developed by Marieke Meelen (University of Cambridge) and Charles Ramble (Paris EPHE), based on their fieldwork with and learnings from the Dzardzongke community.
+
+The keyboard and lexical model have been made by Kitty Liu (University of Cambridge) through Keyman Developer.
